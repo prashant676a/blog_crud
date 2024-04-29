@@ -66,7 +66,7 @@ blog-crud/
     python manage.py runserver
     ```
 
-### Frontend (React)
+### Frontend (React) [in another terminal]
 
 1. Navigate to the `frontend` folder:
 
